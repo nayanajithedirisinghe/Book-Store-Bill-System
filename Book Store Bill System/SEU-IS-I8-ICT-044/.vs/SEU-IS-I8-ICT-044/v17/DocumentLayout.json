@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CS COMPUTER\\Desktop\\savi\\SEU_IS_18_ICT_044_CA3\\SEU-IS-I8-ICT-044\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E799661E-4407-4422-BD88-469C4D231482}|SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044.csproj|C:\\Users\\CS COMPUTER\\Desktop\\savi\\SEU_IS_18_ICT_044_CA3\\SEU-IS-I8-ICT-044\\seu-is-i8-ict-044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E799661E-4407-4422-BD88-469C4D231482}|SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044.csproj|solutionrelative:seu-is-i8-ict-044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E799661E-4407-4422-BD88-469C4D231482}|SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044.csproj|c:\\users\\cs computer\\desktop\\savi\\seu_is_18_ict_044_ca3\\seu-is-i8-ict-044\\seu-is-i8-ict-044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E799661E-4407-4422-BD88-469C4D231482}|SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044.csproj|solutionrelative:seu-is-i8-ict-044\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CS COMPUTER\\Desktop\\savi\\SEU_IS_18_ICT_044_CA3\\SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044\\Form1.cs",
+              "RelativeDocumentMoniker": "SEU-IS-I8-ICT-044\\Form1.cs",
+              "ToolTip": "C:\\Users\\CS COMPUTER\\Desktop\\savi\\SEU_IS_18_ICT_044_CA3\\SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044\\Form1.cs",
+              "RelativeToolTip": "SEU-IS-I8-ICT-044\\Form1.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAIA5wK0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:27:07.976Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CS COMPUTER\\Desktop\\savi\\SEU_IS_18_ICT_044_CA3\\SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044\\Form1.cs",
+              "RelativeDocumentMoniker": "SEU-IS-I8-ICT-044\\Form1.cs",
+              "ToolTip": "C:\\Users\\CS COMPUTER\\Desktop\\savi\\SEU_IS_18_ICT_044_CA3\\SEU-IS-I8-ICT-044\\SEU-IS-I8-ICT-044\\Form1.cs [Design]",
+              "RelativeToolTip": "SEU-IS-I8-ICT-044\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:15:09.268Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
